@@ -1,0 +1,44 @@
+
+h
+java:S1192"KDefine a constant instead of duplicating this literal "updated_at" 3 times.(ì÷çú8úƒ¡ìÎ1
+m
+java:S1192"KDefine a constant instead of duplicating this literal "created_at" 3 times.(ÁúÜ”şÿÿÿÿ8ûƒ¡ìÎ1
+n
+java:S1192"LDefine a constant instead of duplicating this literal "description" 3 times.(«¢¦Ãûÿÿÿÿ8üƒ¡ìÎ1
+h
+java:S1192"FDefine a constant instead of duplicating this literal "title" 3 times.(¬Ó”†ıÿÿÿÿ8üƒ¡ìÎ1
+W
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8şƒ¡ìÎ1
+W
+java:S1141D"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8şƒ¡ìÎ1
+X
+java:S1141Á"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÿƒ¡ìÎ1
+q
+java:S2095:"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(í”Ë«úÿÿÿÿ8¹œ¡ìÎ1
+r
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(í”Ë«úÿÿÿÿ8¹œ¡ìÎ1
+q
+java:S2095d"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(í”Ë«úÿÿÿÿ8ü‘¢ìÎ1
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(í”Ë«úÿÿÿÿ8¹œ¡ìÎ1
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(í”Ë«úÿÿÿÿ8¹œ¡ìÎ1
+r
+java:S2095¸"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(í”Ë«úÿÿÿÿ8¹œ¡ìÎ1
+T
+java:S2589l"7Remove this expression which always evaluates to "true"(¡ææú8¹œ¡ìÎ1
+L	java:S106""+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8¾œ¡ìÎ1
+G	java:S106("+Replace this use of System.out by a logger.(õŒµÔ8¿œ¡ìÎ1
+G	java:S106."+Replace this use of System.out by a logger.(õŒµÔ8¿œ¡ìÎ1
+L	java:S106J"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8Äœ¡ìÎ1
+G	java:S106P"+Replace this use of System.out by a logger.(õŒµÔ8Äœ¡ìÎ1
+G	java:S106X"+Replace this use of System.out by a logger.(õŒµÔ8Äœ¡ìÎ1
+G	java:S106h"+Replace this use of System.out by a logger.(õŒµÔ8Çœ¡ìÎ1
+G	java:S106p"+Replace this use of System.out by a logger.(õŒµÔ8Èœ¡ìÎ1
+H	java:S106‡"+Replace this use of System.out by a logger.(õŒµÔ8Ëœ¡ìÎ1
+H	java:S106"+Replace this use of System.out by a logger.(õŒµÔ8Ìœ¡ìÎ1
+H	java:S106¤"+Replace this use of System.out by a logger.(õŒµÔ8Ïœ¡ìÎ1
+H	java:S106¬"+Replace this use of System.out by a logger.(õŒµÔ8Ğœ¡ìÎ1
+M	java:S106Ç"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8Óœ¡ìÎ1
+H	java:S106Í"+Replace this use of System.out by a logger.(õŒµÔ8Óœ¡ìÎ1
+H	java:S106Õ"+Replace this use of System.out by a logger.(õŒµÔ8Ôœ¡ìÎ1
